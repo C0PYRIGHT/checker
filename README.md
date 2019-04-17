@@ -10,5 +10,5 @@ $ jika tool ini tidak bekerja silahkan ON/OFF mode pesawat
 ![screnshoot](chc.jpg)
 
 # How To Use 
-Check in Here ['Tutorial'](https://www.thefoolnoob.zone.id)
+Check in Here [Tutorial](https://www.thefoolnoob.zone.id)
 
